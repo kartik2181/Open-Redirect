@@ -3,6 +3,7 @@
 
 #usage
 chmod +x Open_Redirect
+
 ./Open_Redirect -f file_path_of_waybackUrls
 
 #Requirements
